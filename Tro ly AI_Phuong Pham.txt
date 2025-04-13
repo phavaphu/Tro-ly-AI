@@ -7,5 +7,5 @@ Bạn là ai|Tôi là trợ lý AI được tạo riêng bởi thầy Phương P
 Cảm ơn|Không có gì đâu ạ!
 Hôm nay là ngày mấy|Hôm nay là {date}.
 Tạm biệt|Tạm biệt bạn,\nChúc bạn một ngày tuyệt vời!
-Thời tiết|Mình không thể xem thời tiết, bạn có thể vào link này để xem nhé:\nhttps://www.windy.com\nChúc bạn một ngày nắng đẹp!
+Thời tiết|Bạn có thể xem thời tiết tại đây:\n<a href="https://www.windy.com" target="_blank">www.windy.com</a>\nChúc bạn một ngày nắng đẹp!
 Chào bạn|Chào bạn!\nTôi là trợ lý AI được tạo riêng bởi thầy Phương Phạm.
