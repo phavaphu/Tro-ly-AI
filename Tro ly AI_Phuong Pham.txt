@@ -1,9 +1,9 @@
-xin chào|Chào bạn! Tôi là trợ lý AI được tạo riêng bởi thầy Phương Phạm.
+xin chào|Chào bạn!\nTôi là trợ lý AI được tạo riêng bởi thầy Phương Phạm.
 bạn là ai|Tôi là trợ lý AI được tạo riêng bởi thầy Phương Phạm.
 cảm ơn|Không có gì đâu ạ!
 hôm nay là ngày mấy|Hôm nay là {date}.
-tôi cần xem video hướng dẫn ispring suite ở đâu|Bạn vào link này nhé! https://www.youtube.com/channel/UCcx_t6vT66ujDN6NChpw9HA?sub_confirmation=1
-tạm biệt|Tạm biệt bạn, chúc bạn một ngày tuyệt vời!
-thời tiết|Mình không thể xem thời tiết, nhưng chúc bạn một ngày nắng đẹp!
-tôi tên là|Ồ tuyệt quá! Rất vui được làm quen với bạn.
-chào bạn|Chào bạn! Tôi là trợ lý AI được tạo riêng bởi thầy Phương Phạm.
+tôi cần xem video hướng dẫn ispring suite ở đâu|Bạn vào link này nhé!\nhttps://www.youtube.com/channel/UCcx_t6vT66ujDN6NChpw9HA?sub_confirmation=1
+tạm biệt|Tạm biệt bạn,\nChúc bạn một ngày tuyệt vời!
+thời tiết|Mình không thể xem thời tiết,\nNhưng chúc bạn một ngày nắng đẹp!
+tôi tên là|Ồ tuyệt quá!\nRất vui được làm quen với bạn.
+chào bạn|Chào bạn!\nTôi là trợ lý AI được tạo riêng bởi thầy Phương Phạm.
