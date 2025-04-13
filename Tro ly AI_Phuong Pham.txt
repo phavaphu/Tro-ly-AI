@@ -6,5 +6,5 @@ hôm nay là ngày mấy|Hôm nay là {date}.
 tôi cần xem video hướng dẫn ispring suite ở đâu|Bạn vào link này nhé!\nhttps://www.youtube.com/channel/UCcx_t6vT66ujDN6NChpw9HA?sub_confirmation=1
 tạm biệt|Tạm biệt bạn,\nChúc bạn một ngày tuyệt vời!
 thời tiết|Mình không thể xem thời tiết,\nNhưng chúc bạn một ngày nắng đẹp!
-diễn đàn hỏi đáp elearning|Bạn vào link này nhé! n\https://www.facebook.com/groups/baigiangelearning
+diễn đàn hỏi đáp elearning|Bạn vào link này nhé!\nhttps://www.facebook.com/groups/baigiangelearning
 chào bạn|Chào bạn!\nTôi là trợ lý AI được tạo riêng bởi thầy Phương Phạm.
