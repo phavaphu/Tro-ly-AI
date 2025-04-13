@@ -1,11 +1,32 @@
-Những thay đổi, cập nhật của iSpring Suite|Bạn vào link này nhé!\nhttps://igiaoduc.blogspot.com/2024/03/nhung-thay-oi-cap-nhat-cua-ispring.html
-Tôi cần mua phần mềm ispring suite Việt ở đâu|Bạn vào link này nhé!\nhttps://igiaoduc.blogspot.com/p/thong-tin-mua-phan-mem.html
-Diễn đàn hỏi đáp elearning|Bạn vào link này nhé!\nhttps://www.facebook.com/groups/baigiangelearning
-Tôi cần xem video hướng dẫn ispring suite ở đâu|Bạn vào link này nhé!\nhttps://www.youtube.com/channel/UCcx_t6vT66ujDN6NChpw9HA?sub_confirmation=1
-Phần mềm ispring suite|Bạn vào link này nhé!\nhttps://igiaoduc.blogspot.com/search/label/iSpring%20Suite?&max-results=5
-Bạn là ai|Tôi là trợ lý AI được tạo riêng bởi thầy Phương Phạm.
-Cảm ơn|Không có gì đâu ạ!
-Hôm nay là ngày mấy|Hôm nay là {date}.
-Tạm biệt|Tạm biệt bạn,\nChúc bạn một ngày tuyệt vời!
-thời tiết|Bạn vào link này nhé!\nhttps://www.windy.com
-Chào bạn|Chào bạn!\nTôi là trợ lý AI được tạo riêng bởi thầy Phương Phạm.
+- Những thay đổi, cập nhật của iSpring Suite
+* Bạn có thể xem tại đây nhé: https://igiaoduc.blogspot.com/2024/03/nhung-thay-oi-cap-nhat-cua-ispring.html
+
+- Tôi cần mua phần mềm ispring suite Việt ở đâu
+* Bạn có thể mua tại đây nhé: https://igiaoduc.blogspot.com/p/thong-tin-mua-phan-mem.html
+
+- Diễn đàn hỏi đáp elearning
+* Mời bạn tham gia nhóm Facebook tại đây nhé: https://www.facebook.com/groups/baigiangelearning
+
+- Tôi cần xem video hướng dẫn ispring suite ở đâu
+* Bạn xem video hướng dẫn tại kênh YouTube này nhé: https://www.youtube.com/channel/UCcx_t6vT66ujDN6NChpw9HA?sub_confirmation=1
+
+- Phần mềm ispring suite
+* Bạn xem thêm thông tin phần mềm tại đây nhé: https://igiaoduc.blogspot.com/search/label/iSpring%20Suite?&max-results=5
+
+- Bạn là ai
+* Tôi là trợ lý AI, được thầy Phương Phạm tạo riêng để hỗ trợ bạn.
+
+- Cảm ơn
+* Không có gì đâu ạ! Rất vui được hỗ trợ bạn.
+
+- Hôm nay là ngày mấy
+* Hôm nay là {date}.
+
+- Tạm biệt
+* Tạm biệt bạn! Chúc bạn một ngày thật vui và hiệu quả nhé!
+
+- Thời tiết
+* Bạn xem thông tin thời tiết tại đây nhé: https://www.windy.com
+
+- Chào bạn
+* Chào bạn! Tôi là trợ lý AI được tạo riêng bởi thầy Phương Phạm, rất vui được hỗ trợ bạn.
