@@ -1,4 +1,5 @@
 xin chào|Chào bạn!\nTôi là trợ lý AI được tạo riêng bởi thầy Phương Phạm.
+Những thay đổi, cập nhật của iSpring Suite|Bạn vào link này nhé!\nhttps://igiaoduc.blogspot.com/2024/03/nhung-thay-oi-cap-nhat-cua-ispring.html
 bạn là ai|Tôi là trợ lý AI được tạo riêng bởi thầy Phương Phạm.
 cảm ơn|Không có gì đâu ạ!
 hôm nay là ngày mấy|Hôm nay là {date}.
@@ -7,4 +8,3 @@ tạm biệt|Tạm biệt bạn,\nChúc bạn một ngày tuyệt vời!
 thời tiết|Mình không thể xem thời tiết,\nNhưng chúc bạn một ngày nắng đẹp!
 tôi tên là|Ồ tuyệt quá!\nRất vui được làm quen với bạn.
 chào bạn|Chào bạn!\nTôi là trợ lý AI được tạo riêng bởi thầy Phương Phạm.
-Những thay đổi, cập nhật của iSpring Suite|Bạn vào link này nhé!\nhttps://igiaoduc.blogspot.com/2024/03/nhung-thay-oi-cap-nhat-cua-ispring.html
