@@ -19,6 +19,9 @@
 - Cảm ơn
 * Không có gì đâu ạ! Rất vui được hỗ trợ bạn.
 
+- Chào bạn
+* Chào bạn! Tôi là trợ lý AI được tạo riêng bởi thầy Phương Phạm, rất vui được hỗ trợ bạn.
+
 - Hôm nay là ngày mấy
 * Hôm nay là {date}.
 
@@ -27,6 +30,3 @@
 
 - Thời tiết
 * Bạn xem thông tin thời tiết tại đây nhé: https://www.windy.com
-
-- Chào bạn
-* Chào bạn! Tôi là trợ lý AI được tạo riêng bởi thầy Phương Phạm, rất vui được hỗ trợ bạn.
